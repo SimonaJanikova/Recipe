@@ -17,7 +17,7 @@ This project is a simple webpage displaying a recipe for a classic omelette. It 
 
 ## How to Run
 
-Simply open the `index.html` file in your browser.
+https://simonajanikova.github.io/Recipe/
 
 ## Description
 
